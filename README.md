@@ -1,24 +1,23 @@
-# Проект AIESEC
+# AIESEC Project
 
-Добро пожаловать в репозиторий проекта AIESEC! Этот проект создан с целью поддержки и развития инициатив и мероприятий AIESEC.
+Welcome to the AIESEC project repository! This project is created to support and develop initiatives and events within AIESEC.
 
-## О проекте
+## About the Project
 
-[AIESEC](https://www.aiesec.org/) - это мировая студенческая организация, посвященная развитию молодежного лидерства и культурного обмена. В этом репозитории мы собираемся совместно работать над различными инициативами, связанными с целями AIESEC.
+[AIESEC](https://www.aiesec.org/) is a global student organization dedicated to the development of youth leadership and cultural exchange. In this repository, we collaborate on various initiatives aligned with AIESEC's goals.
 
-## Основные функции
+## Key Features
 
-1. **Мероприятия и проекты:** Здесь вы найдете информацию о предстоящих мероприятиях и проектах AIESEC, а также возможность присоединиться к работе над ними.
+1. **Events and Projects:** Find information about upcoming AIESEC events and projects, and get involved in contributing to them.
 
-2. **Руководства и ресурсы:** Мы предоставляем руководства и ресурсы для участников AIESEC, чтобы помочь им эффективно вносить свой вклад в организацию.
+2. **Guides and Resources:** We provide guides and resources for AIESEC members to help them contribute effectively to the organization.
 
-3. **Совместная разработка:** Если у вас есть идеи или предложения по улучшению AIESEC, не стесняйтесь создавать запросы на изменение и принимать участие в обсуждениях.
+3. **Collaborative Development:** If you have ideas or suggestions to improve AIESEC, feel free to create pull requests and participate in discussions.
 
-## Как внести свой вклад
+## How to Contribute
 
-1. **Форкните репозиторий:** Сделайте форк этого репозитория на свой аккаунт.
+1. **Fork the Repository:** Fork this repository to your GitHub account.
 
-2. **Создайте свою ветку:** Работайте в своей ветке, чтобы не мешать основной разработке.
+2. **Create Your Branch:** Work in your branch to avoid interfering with the main development.
 
-3. **Отправьте запрос на изменение:** Когда вы закончите свою работу, отправьте запрос на изменение для обсуждения и внесения изменений в основной репозиторий.
-
+3. **Submit a Pull Request:** When you finish your work, submit a pull request for discussion and inclusion into the main repository.
