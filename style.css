@@ -1,8 +1,10 @@
 
   /* Slider */
   
-  .slick-slide {z
-      margin: 15px 50px;
+  .slick-slide {
+      margin: 0px 10px;
+      margin-right: 10px; /* Добавьте нужное вам значение отступа */
+
   }
   
   .slick-slide img {
@@ -110,8 +112,10 @@
   {
       display: block;
       height: auto;
-      border: 1px solid transparent;
+      border: 1000px solid transparent;
   }
   .slick-arrow.slick-hidden {
       display: none;
+      margin: 0 50px; /* Измените значение, чтобы увеличить или уменьшить расстояние между стрелками */
+
   }
