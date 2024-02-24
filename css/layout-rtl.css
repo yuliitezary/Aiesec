@@ -640,7 +640,7 @@ fieldset[disabled] .btn-theme {
   height: 50px;
   font-size: 14px;
   font-weight: 400;
-  color: #a6a7aa;
+  color: #0037dd;
   background: #fafafa;
   border: none;
   box-shadow: none;
@@ -807,7 +807,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-white {
-  color: #fff;
+  color: #fa0000;
 }
 
 .color-heading {
